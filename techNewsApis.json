@@ -1,0 +1,103 @@
+[
+    {
+        "id":"a231102p42",
+        "title":"A jury finds Sam Bankman-Fried guilty on all seven counts of fraud and conspiracy in the FTX trial; the judge sets SBF's sentencing for March 28, 2024",
+        "url":"https://techcrunch.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-counts/"
+    },
+    
+    {
+        "id":"a231102p36",
+        "title":"Apple reports Q4 revenue down 1% YoY to $89.5B, vs. $89.3B est., net income up 11% to $22.9B, Americas sales up 0.8% to $40.1B, Europe sales down 1.5% to $22.5B",
+        "url":"https://www.businesswire.com/news/home/20231102622200/en/"
+    },
+    
+    {
+        "id":"a231102p34",
+        "title":"Google's Chrome team stops considering a Web Integrity API proposal that aimed to help enforce IP rights, count ad views, and limit bots, after DRM comparisons",
+        "url":"https://9to5google.com/2023/11/02/google-chrome-web-integrity-api/"
+    },
+    
+    {
+        "id":"a231102p19",
+        "title":"Microsoft announces the Secure Future Initiative, which includes responding faster to vulnerabilities and using AI and automation to improve software security",
+        "url":"https://www.theverge.com/2023/11/2/23943178/microsoft-security-secure-future-initiative-cybersecurity"
+    },
+    
+    {
+        "id":"a231102p38",
+        "title":"Coinbase reports Q3 revenue up 14% YoY to $674M, vs. $654.7M est., net loss down 99.6% YoY to $2.3M from $545M YoY, and $76B in trading volume, vs. $80.4B est.",
+        "url":"https://www.bloomberg.com/news/articles/2023-11-02/coinbase-s-loss-narrows-while-revenue-rises-more-than-forecast"
+    },
+    
+    {
+        "id":"a231102p33",
+        "title":"Google AdSense will soon move from paying per click to paying per impression and split the revenue share into separate rates for the buy-side and sell-side",
+        "url":"https://9to5google.com/2023/11/02/google-adsense-payments-2024/"
+    },
+    
+    {
+        "id":"a231102p44",
+        "title":"Sources: Microsoft plans to remove the free Xbox Game Pass Ultimate benefit for most staff in Jan. 2024; Phil Spencer said he was unaware and is looking into it",
+        "url":"https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed"
+    },
+    
+    {
+        "id":"a231102p40",
+        "title":"Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable",
+        "url":"https://www.reuters.com/technology/elon-musk-says-starlink-has-achieved-breakeven-cash-flow-2023-11-02/"
+    },
+    
+    {
+        "id":"a231102p46",
+        "title":"Cloudflare says it has restored most services after power outages at multiple data centers impacted its products, including Cloudflare API and Stream API",
+        "url":"https://www.bleepingcomputer.com/news/security/cloudflare-dashboard-and-apis-down-after-data-center-power-outage/"
+    },
+    
+    {
+        "id":"a231102p45",
+        "title":"Ex-Instagram consultant Arturo Bejar, set to testify in Congress on Nov. 7, says Meta didn't sufficiently act on its Well-Being Team's findings to protect teens",
+        "url":"https://www.wsj.com/tech/instagram-facebook-teens-harassment-safety-5d991be1?mod=followamazon"
+    },
+    
+    {
+        "id":"a231102p24",
+        "title":"The FTC says Jeff Bezos ordered Amazon executives to accept more junk ads to boost profits; Amazon used disappearing Signal chats from June 2019 to early 2022",
+        "url":"https://www.bloomberg.com/news/articles/2023-11-02/amazon-boosted-junk-ads-hid-messages-with-signal-ftc-says"
+    },
+
+    {
+        "id":"a231102p25",
+        "title":"Paul McCartney and Ringo Starr release Now and Then, the first “new” Beatles song since 1995, created using AI and an old lo-fi John Lennon recording",
+        "url":"https://www.theverge.com/2023/11/2/23943290/now-and-then-the-beatles-new-song-ai"
+    },
+    
+    {
+        "id":"a231102p32",
+        "title":"Meta, OpenAI, and others sign a non-binding document to let the US, the UK, and other nations test AI models for national security risks prior to their release",
+        "url":"https://t.co/hcg9HaDTEp"
+    },
+    
+    {
+        "id":"a231102p22",
+        "title":"US v. Google: Apple's Eddy Cue sent Tim Cook a presentation in 2013 that declared “Android is a massive tracking device” and detailed Google's privacy practices",
+        "url":"https://www.androidauthority.com/apple-android-massive-tracking-device-3381617/"
+    },
+    
+    {
+        "id":"a231102p26",
+        "title":"Brave releases its AI assistant Leo to all desktop users and unveils Leo Premium, offering access to faster and better LLMs and higher rate limits for $15/month",
+        "url":"https://techcrunch.com/2023/11/02/braves-leo-ai-assistant-is-now-available-to-desktop-users/"
+    },
+    
+    {
+        "id":"a231102p27",
+        "title":"Meta announces new creator tools, including a Reels A/B testing mobile tool for testing different thumbnails and captions for a Reel to see which performs best",
+        "url":"https://www.theverge.com/2023/11/2/23943278/meta-facebook-reels-ab-testing-creator-insights"
+    },
+    
+    {
+        "id":"a231102p21",
+        "title":"Arm acquires a minority stake in Raspberry Pi, extending the two companies' partnership that began in 2008 and has resulted in ARM CPUs in all Raspberry Pi SoCs",
+        "url":"https://www.tomshardware.com/raspberry-pi/arm-acquires-minority-stake-in-raspberry-pi"
+    }
+]
